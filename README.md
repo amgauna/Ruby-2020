@@ -1,2 +1,4 @@
-# Ruby-On-Rails
-Ruby On Rails - Exemplos de código 
+# Ruby 
+
+# Framework Ruby On Rails - Exemplos de Código 
+
