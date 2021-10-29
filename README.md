@@ -1,6 +1,4 @@
-# Ruby 
-
-# Framework Ruby On Rails - Exemplos de Código 
+# Ruby - Exemplos de Código 
 
 # Ruby Tutorial = https://www.ruby-lang.org/pt/documentation/
 
